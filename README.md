@@ -2,6 +2,7 @@
 Python script that extracts information from a GFF3 file. 
 
 GFF (general feature format) files are tab-delimited files that store information on biological features. More information can be read here: https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md
+
 This script takes in four long arguments on the command line:
 * --source_gff=/path/to/.gff3 file 
 * --type=
