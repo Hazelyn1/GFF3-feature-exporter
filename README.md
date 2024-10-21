@@ -10,3 +10,4 @@ This script takes in four long arguments on the command line:
 * --value=
 
 If the feature is found, the FASTA sequence of that feature will be printed to the terminal.
+
